@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=_hello _hello
+chown -h --reference=_hello _hello
