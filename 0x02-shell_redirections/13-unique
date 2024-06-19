@@ -1,2 +1,2 @@
 #!/bin/bash
-echo words\n > file.txt | sort | uniq
+cat lists | sort | uniq
