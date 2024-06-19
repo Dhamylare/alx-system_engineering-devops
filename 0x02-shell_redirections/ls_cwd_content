@@ -1,0 +1,11 @@
+total 36
+drwxr-xr-x 2 dhamylare dhamylare 4096 Jun 19 07:18 .
+drwxr-xr-x 6 dhamylare dhamylare 4096 Jun 19 06:17 ..
+-rwxr--r-- 1 dhamylare dhamylare   32 Jun 19 06:19 0-hello_world
+-rwxr--r-- 1 dhamylare dhamylare   28 Jun 19 06:26 1-confused_smiley
+-rwxr--r-- 1 dhamylare dhamylare   28 Jun 19 06:30 2-hellofile
+-rwxr--r-- 1 dhamylare dhamylare   39 Jun 19 07:04 3-twofiles
+-rwxr--r-- 1 dhamylare dhamylare   29 Jun 19 07:08 4-lastlines
+-rwxr--r-- 1 dhamylare dhamylare   29 Jun 19 07:11 5-firstlines
+-rwxr--r-- 1 dhamylare dhamylare   36 Jun 19 07:17 8-cwd_state
+-rw-r--r-- 1 dhamylare dhamylare    0 Jun 19 07:18 ls_cwd_content
